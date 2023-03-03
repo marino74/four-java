@@ -6,7 +6,7 @@ public class Launcher {
 		// TODO Auto-generated method stub
 		System.out.println("xxxxxx intellij-2");
 		System.out.println("xxxxxx github-1");
-		//System.out.println("xxxxxx repo");
+		System.out.println("xxxxxx repo");
 	}
 
 }
